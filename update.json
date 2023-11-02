@@ -1,4 +1,6 @@
 {
   "is_mandatory": true,
-  "play_store_version": ""
+  "play_store_version": "",
+  "message": "",
+  "app_store_version": ""
 }
