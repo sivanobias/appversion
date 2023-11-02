@@ -1,5 +1,5 @@
 {
-  "is_mandatory": true,
+  "is_mandatory": false,
   "play_store_version": "3.1.4",
   "play_store_build_number": 34,
   "message": "",
